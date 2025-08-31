@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-3d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.292.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.157.0",
+    "@react-three/drei": "^9.86.7",
+    "@react-three/fiber": "^8.13.6"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "vite": "^4.5.0"
+  }
+}
